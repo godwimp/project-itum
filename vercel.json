@@ -1,3 +1,4 @@
+{
 {"version": 2,
 "framework": "vite",
 
@@ -28,3 +29,4 @@
     "LOG_CHANNEL": "stderr",
     "SESSION_DRIVER": "cookie"
 }}
+}
